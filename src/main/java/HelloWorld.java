@@ -5,9 +5,11 @@ public class HelloWorld extends JFrame {
     private JLabel lblMensagem;
     private JLabel lblMensagem2;
 
+
     public HelloWorld(){
         lblMensagem2.setText("O Rodrigo Sousa esteve aqui");
         setContentPane(panel1);
+        lblMensagem2.setText("O Joel esteve aqui");
         pack();
     }
 

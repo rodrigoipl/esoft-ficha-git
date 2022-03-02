@@ -8,7 +8,11 @@
     <properties/>
     <border type="none"/>
     <children>
+<<<<<<< HEAD
       <component id="c0f11" class="javax.swing.JLabel" binding="lblMensagem">
+=======
+      <component id="c0f11" class="javax.swing.JLabel" binding="lblMensagem2">
+>>>>>>> 7484454d670da17cbfc522375f5ff30ef1c483e4
         <constraints>
           <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>
